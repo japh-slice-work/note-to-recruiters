@@ -7,6 +7,7 @@ I have several sample projects that can be shared upon request.
 - A Dockerized Rust API server with a postman test app.
 - A Maven managed Java-Selenium-Cucumber Web App test with gherkin feature file.
 - Others coming soon (A perl based API Fuzzer is next in the pipeline, a demo version will be available)
+Just send an email to my Github account and I'll grant you access.
 
 Additionally in the publicly shared repos there are some of my fun Perl applications.
 Some of these may need some massaging to work on an arbitrary system, they each demonstrate areas where perl can be well suited:
